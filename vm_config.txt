@@ -1,0 +1,1 @@
+ubuntu="F:\vmware\Ubuntu 64-bit.vmx"
