@@ -1,1 +1,1 @@
-ubuntu="F:\vmware\Ubuntu 64-bit.vmx"
+examplevm="C:\path\to\example\vm.vmx"
